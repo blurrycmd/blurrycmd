@@ -81,7 +81,6 @@
 </div>
 
 <br>
-<br>
 
 <div align="center">
     <img align="center" src="https://img.shields.io/badge/August%206%2C%202021%20-%20?style=flat&logo=github&label=Joined&labelColor=16171b&color=8299ca" >
