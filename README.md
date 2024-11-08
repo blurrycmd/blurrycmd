@@ -87,7 +87,7 @@
 <br>
 
 <div align="center">
-    <img align="center" src="https://img.shields.io/badge/Joined%20August%206%2C%202021%20-%20?style=flat-square&logo=github&color=8299ca" >
+    <img align="center" src="https://img.shields.io/badge/Joined%20August%206%2C%202021%20-%20?style=flat-square&logo=github&color=16171b" >
 </div>
 
 <br>
