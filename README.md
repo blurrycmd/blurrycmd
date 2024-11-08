@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Outfit&size=60&duration=4000&pause=1000&color=A3BDF5&center=true&vCenter=true&width=550&height=100&lines=I'm+CR24!;Hi+there!+%F0%9F%91%8B%F0%9F%8F%BB;Nice+to+meet+you!;(shoutout+to+oxelf)" />
+    <img src="https://readme-typing-svg.demolab.com?font=Outfit&size=60&duration=4000&pause=1000&color=A3BDF5&center=true&vCenter=true&width=550&height=100&lines=Hi+there!+%F0%9F%91%8B%F0%9F%8F%BB;I'm+CR24!;Nice+to+meet+you!;(shoutout+to+oxelf)" />
 </div>
 
 ---
@@ -87,7 +87,7 @@
 <br>
 
 <div align="center">
-    <img align="center" src="https://img.shields.io/badge/August%206%2C%202021%20-%20?style=flat&logo=github&label=Joined&labelColor=16171b&color=8299ca" >
+    <img align="center" src="https://img.shields.io/badge/August%206%2C%202021%20-%20?style=flat-square&logo=github&label=Joined&labelColor=16171b&color=8299ca" >
 </div>
 
 <br>
