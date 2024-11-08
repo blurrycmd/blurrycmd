@@ -76,15 +76,14 @@
 <br>
 <br>
 
-<div>
-  <img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=ItsCR24.ItsCR24&left_color=%2316171b&left_text=Profile%20Views&right_color=%238299ca"/>
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ItsCR24.ItsCR24&left_color=%2316171b&left_text=Profile%20Views&right_color=%238299ca"/>
 </div>
 
-
 <br>
 <br>
 
-<div>
+<div align="center">
     <img align="center" src="https://img.shields.io/badge/August%206%2C%202021%20-%20?style=flat&logo=github&label=Joined&labelColor=16171b&color=8299ca" >
 </div>
 
