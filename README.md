@@ -25,6 +25,8 @@
     <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
 </div>
 
+<br>
+
 ## 🌐 Web
 <div>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -32,6 +34,8 @@
     <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
     <img src="https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white">
 </div>
+
+<br>
 
 ## 🛠️ Development Tools
 <div>
@@ -45,11 +49,15 @@
     <img src="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white">
 </div>
 
+<br>
+
 ## 🐞 Microcontroller
 <div>
     <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white">
     <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white">
 </div>
+
+<br>
 
 ## 🎨 3D-Design && Image Editing
 <div>
@@ -57,16 +65,27 @@
     <img src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white">
 </div>
 
+<br>
+
 ## 📱 Operating Systems
 <div>
     <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
     <img src="https://img.shields.io/badge/Windows_11-0078d4?style=for-the-badge&logo=windows-11&logoColor=white">
 </div>
 
+<br>
+<br>
+
 <div>
   <img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=ItsCR24.ItsCR24&left_color=%2316171b&left_text=Profile%20Views&right_color=%238299ca"/>
 </div>
 
+
+<br>
+<br>
+
 <div>
     <img align="center" src="https://img.shields.io/badge/August%206%2C%202021%20-%20?style=flat&logo=github&label=Joined&labelColor=16171b&color=8299ca" >
 </div>
+
+<br>
