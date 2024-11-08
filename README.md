@@ -9,7 +9,10 @@
 👨🏻‍💻 16-year-old programmer noob
 
 🔭 Hobbies: Computer Science, Photography, 3D-Printing and rendering!
+
 </div>
+
+---
 
 ## 🖥️ Languages, Frameworks && Librarys
 <div>
