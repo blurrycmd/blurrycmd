@@ -6,7 +6,7 @@
 
 <div align="center">
     
-👨🏻‍💻 16-year-old programmer noob
+👨🏻‍💻 16-year-old programmer noob and person who wishes days had 48 hours.
 
 🔭 Hobbies: Computer Science, Photography, 3D-Printing and rendering!
 
