@@ -87,7 +87,7 @@
 ## 📊 Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=blurrycmd&theme=tokyonight"  width="493">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=blurrycmd&theme=tokyonight"  width="492.5">
 </div>
 
 <br>
