@@ -87,13 +87,17 @@
 ## 📊 Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=blurrycmd&theme=tokyonight"  width="492.5">
+  <picture>
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=blurrycmd&theme=tokyonight" width="350px">
+  </picture>
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=blurrycmd&theme=tokyonight">
+  <picture>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=blurrycmd&theme=tokyonight" width="350px">
+  </picture>
 </div>
 
 <br>
