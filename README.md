@@ -169,7 +169,7 @@
 
 <div align="center">
   <picture>
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=ItsCR24.ItsCR24&left_color=%2316171b&left_text=Profile%20Views&right_color=%238299ca">
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=blurrycmd.blurrycmd&left_color=%2316171b&left_text=Profile%20Views&right_color=%238299ca">
   </picture>
 </div>
 
