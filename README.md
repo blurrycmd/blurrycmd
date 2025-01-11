@@ -119,6 +119,9 @@
   <picture>
     <img src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white">
   </picture>
+  <picture>
+    <img src="https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white">
+  </picture>
 </div>
 
 <br>
