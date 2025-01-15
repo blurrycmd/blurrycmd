@@ -160,14 +160,6 @@
 </div>
 
 <br>
-
-<div align="center">
-  <picture>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=blurrycmd&theme=tokyonight" width="350px">
-  </picture>
-</div>
-
-<br>
 <br>
 
 <div align="center">
