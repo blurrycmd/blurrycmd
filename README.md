@@ -141,7 +141,7 @@
     <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
   </picture>
   <picture>
-    <img src="https://img.shields.io/badge/Nothing Phone (3a)-FFFFFF?style=for-the-badge">
+    <img src="https://img.shields.io/badge/Nothing Phone (3a)-000000?style=for-the-badge">
   </picture>
   <picture>
     <img src="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white">
