@@ -75,7 +75,7 @@
     <img src="https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white">
   </picture>
  <picture>
-    <img src="https://img.shields.io/badge/Davinci%20Resolve-DA1F26">
+    <img src="https://img.shields.io/badge/Davinci%20Resolve-DA1F26?style=for-the-badge">
   </picture>
 </div>
 
