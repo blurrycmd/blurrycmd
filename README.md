@@ -146,7 +146,7 @@
 
 <div align="center">
   <picture>
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=blurrycmd&theme=tokyonight" width="350px">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=blurrycmd&theme=tokyonight" width="350px">
   </picture>
 </div>
 
