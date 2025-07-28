@@ -69,12 +69,12 @@
     <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white">
   </picture>
   <picture>
+    <img src="https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white">
+  </picture>
+  <picture>
     <img src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white">
   </picture>
   <picture>
-    <img src="https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white">
-  </picture>
- <picture>
     <img src="https://img.shields.io/badge/Davinci%20Resolve-DA1F26?style=for-the-badge">
   </picture>
 </div>
@@ -93,6 +93,9 @@
     <img src="https://img.shields.io/badge/Windows_11-0078d4?style=for-the-badge&logo=windows-11&logoColor=white">
   </picture>
   <picture>
+    <img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white">
+  </picture>
+  <picture>
     <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
   </picture>
   <picture>
@@ -100,9 +103,6 @@
   </picture>
   <picture>
     <img src="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white">
-  </picture>
-  <picture>
-    <img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white">
   </picture>
 </div>
 
