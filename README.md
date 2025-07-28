@@ -63,7 +63,7 @@
 
 <br>
 
-## 🎨 3D-Design && Image Editing
+## 🎨 3D-Design && Editing
 <div>
   <picture>
     <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white">
@@ -73,6 +73,9 @@
   </picture>
   <picture>
     <img src="https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white">
+  </picture>
+ <picture>
+    <img src="https://img.shields.io/badge/Davinci%20Resolve-DA1F26">
   </picture>
 </div>
 
