@@ -18,7 +18,7 @@
 
 <br>
 
-## 🖥️ Languages, Frameworks && Librarys
+## 🖥️ Skills
 <div>
   <picture>
     <img src="https://img.shields.io/badge/Kotlin-B125EA?style=for-the-badge&logo=kotlin&logoColor=white">
@@ -50,53 +50,14 @@
   <picture>
     <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
   </picture>
-</div>
-
-<br>
-
-## 🛠️ Development Tools
-<div>
-  <picture>
-    <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white">
-  </picture>
-  <picture>
-    <img src="https://img.shields.io/badge/Android_SDK-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white">
-  </picture>
-  <picture>
-    <img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white">
-  </picture>
-  <picture>
-    <img src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white">
-  </picture>
-  <picture>
-    <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
-  </picture>
-  <picture>
-    <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white">
-  </picture>
-  <picture>
-    <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
-  </picture>
-  <picture>
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
-  </picture>
-  <picture>
-    <img src="https://img.shields.io/badge/>%20windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white">
-  </picture>
-  <picture>
-    <img src="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white">
-  </picture>
-</div>
-
-<br>
-
-## 🐞 Microcontroller
-<div>
   <picture>
     <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white">
   </picture>
   <picture>
     <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white">
+  </picture>
+  <picture>
+    <img src="https://img.shields.io/badge/>%20shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
   </picture>
 </div>
 
@@ -137,9 +98,11 @@
   <picture>
     <img src="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white">
   </picture>
+  <picture>
+    <img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white">
+  </picture>
 </div>
 
-<br>
 <br>
 
 ## 📊 Stats
