@@ -86,9 +86,6 @@
   <picture>
     <img src="https://img.shields.io/badge/Nothing Phone (3a)-000000?style=for-the-badge">
   </picture>
-  <picture>
-    <img src="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white">
-  </picture>
 </div>
 
 <br>
