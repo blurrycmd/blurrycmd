@@ -83,16 +83,6 @@
 </div>
 
 <br>
-
-## 📊 Stats
-
-<div align="center">
-  <picture>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=blurrycmd&theme=tokyonight" width="350px">
-  </picture>
-</div>
-
-<br>
 <br>
 
 <div align="center">
