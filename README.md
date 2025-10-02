@@ -69,14 +69,6 @@
 
 <div align="center">
   <picture>
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=blurrycmd.blurrycmd&left_color=%2316171b&left_text=Profile%20Views&right_color=%238299ca">
-  </picture>
-</div>
-
-<br>
-
-<div align="center">
-  <picture>
     <img align="center" src="https://img.shields.io/badge/Joined%20August%206%2C%202021%20-%20?style=flat-square&logo=github&color=16171b">
   </picture>
 </div>
